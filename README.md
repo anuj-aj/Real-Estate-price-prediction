@@ -11,6 +11,7 @@ python src/trainer.py
 
 ## Run FAST API server
 cd src
+
 uvicorn api:app --reload
 
 
